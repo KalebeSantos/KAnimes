@@ -1,2 +1,2 @@
-# kanimes
- Site de Streaming de animes
+# KAnimes
+- Site de Streaming de animes
