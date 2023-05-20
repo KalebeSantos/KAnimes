@@ -1,0 +1,22 @@
+.verm{
+    background-color: red;
+}
+
+.verm1{
+    color: red;
+}
+.branco{
+    color: white;
+}
+
+h2{
+    font-weight: 475;
+    font-size: 25px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.box{
+    padding-bottom: none;
+}
